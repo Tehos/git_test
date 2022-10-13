@@ -1,2 +1,5 @@
 # git_test
-My GitHub Repo!
+
+Not my very first GitHub Repo!
+
+Hello Tehos!
